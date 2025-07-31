@@ -18,7 +18,7 @@
 ```bash
 > Problem Solver | CP Enthusiast | Softwares | 8.73 CGPA
 > 3-Star CC | 430+ LC
-> Mumbai -  Available - Trying to Learn Softwares
+> Mumbai -  Available - Building stuff that matters
 ```
 
 ```bash
@@ -98,7 +98,7 @@ class Developer:
 
 me = Developer()
 print(me.introduce())
-print("Building cool ML projects and solving coding problems!")
+print("Trying to understand this other world called Programming.")
 ```
 
 </div>

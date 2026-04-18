@@ -245,8 +245,6 @@ public class CompetitiveStats {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavGala262&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
 <!-- Trophies -->
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavGala262&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
 
 <!-- Profile Summary Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavGala262&theme=tokyonight" width="100%" />

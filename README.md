@@ -33,41 +33,45 @@ contact → How to Reach Me
 ## Tech and Tools I use
 
 <div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" width="45" />
+    <img src="https://skillicons.dev/icons?i=java" width="45" />
+    <img src="https://skillicons.dev/icons?i=c" width="45" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+    <img src="https://skillicons.dev/icons?i=typescript" width="45" />
+    <img src="https://skillicons.dev/icons?i=html" width="45" />
+    <img src="https://skillicons.dev/icons?i=css" width="45" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" />
+    <img src="https://skillicons.dev/icons?i=pytorch" width="45" />
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+    <img src="https://skillicons.dev/icons?i=git" width="45" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  </p>
 
-<img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="c" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="javascript" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="typescript" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="pytorch" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="fastapi" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="github" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="vercel" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="streamlit" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visualstudio" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="latex" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter" style="margin: 8px;" />
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="45" height="45" alt="colab" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45" alt="kaggle" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="grafana" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="apache" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="react" style="margin: 8px;" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="nextjs" style="margin: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="postgresql" style="margin: 8px;" />
+ 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="prometheus" style="margin: 8px;" />
-
+  <p>
+     <img src="https://skillicons.dev/icons?i=docker" width="45" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+    <img src="https://skillicons.dev/icons?i=react" width="45" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" />
+  </p>
 </div>
 
 

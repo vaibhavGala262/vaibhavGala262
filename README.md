@@ -222,16 +222,8 @@ public class CompetitiveStats {
 <!-- Main Stats Row -->
 <table>
 <tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavGala262&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
 
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavGala262&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&langs_count=8" height="195" />
-
-</td>
 </tr>
 </table>
 

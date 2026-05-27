@@ -155,7 +155,7 @@ public class CompetitiveStats {
     public static void main(String[] args) {
         // 🏆 Competitive Programming Statistics
         String[] platforms = {"CodeChef", "LeetCode"};
-        int[] scores = {1627, 400};
+        int[] scores = {1627, 600};
         String[] titles = {"3-Star", "Problems Solved"};
 
         System.out.println("🏆 COMPETITIVE PROGRAMMING STATS:");

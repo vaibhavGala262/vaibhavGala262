@@ -17,7 +17,7 @@
 
 ```bash
 > Problem Solver | CP Enthusiast | Softwares | 8.79 CGPA
-> 3-Star CC | 430+ LC
+> 3-Star CC | 630+ LC
 > Mumbai -  Available - Building stuff that matters
 ```
 

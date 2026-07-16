@@ -16,7 +16,7 @@
 </div>
 
 ```bash
-> Problem Solver | CP Enthusiast | Softwares | 8.79 CGPA
+> Problem Solver | CP Enthusiast | Softwares | 8.88 CGPA
 > 3-Star CC | 630+ LC
 > Mumbai -  Available - Building stuff that matters
 ```
